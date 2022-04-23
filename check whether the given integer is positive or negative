@@ -3,7 +3,8 @@
 int main()
 {
     int num;
- 
+ /* ABHINAV KUMAR JHA
+ RA2111003011646*/
     printf("Enter a number: \n");
     scanf("%d", &num);
     if (num > 0)
